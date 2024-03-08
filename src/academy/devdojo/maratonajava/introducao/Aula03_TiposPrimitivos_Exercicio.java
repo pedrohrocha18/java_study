@@ -7,8 +7,9 @@ public class Aula03_TiposPrimitivos_Exercicio {
     public static void main(String[] args) {
         String name = "Pedro Henrique";
         String address = "Rua dos Tolos - Número 0";
-        double salary = 8000.00;
+        double salary = 8000.25;
         String date = "07/03/2024";
+//        String relatory = "Eu " + name + " morando no endereço " + address + " confirmo que recebi o salário de " + salary + " na data " + date;
 
         System.out.println("Eu " + name + " morando no endereço " + address + " confirmo que recebi o salário de " + salary + " na data " + date);
     }
