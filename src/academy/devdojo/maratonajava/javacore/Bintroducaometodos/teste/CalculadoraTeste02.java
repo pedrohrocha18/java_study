@@ -5,6 +5,6 @@ import academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Calculad
 public class CalculadoraTeste02 {
     public static void main(String[] args) {
         Calculadora calculator = new Calculadora();
-        calculator.multiplicaNumeros(10, 25.58F);
+        calculator.multiplicaNumeros(10, 25);
     }
 }
